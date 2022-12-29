@@ -11,6 +11,18 @@
     <content type="html"><![CDATA[<h3 id="这是另外一个测试"><a href="#这是另外一个测试" class="headerlink" title="这是另外一个测试"></a>这是另外一个测试</h3><h4 id="嘻嘻测试"><a href="#嘻嘻测试" class="headerlink" title="嘻嘻测试"></a>嘻嘻测试</h4><h4 id="哈哈测试"><a href="#哈哈测试" class="headerlink" title="哈哈测试"></a>哈哈测试</h4><hr><ul><li>滴滴测试</li><li>嗒嗒测试</li></ul>]]></content>
     
     
+    <categories>
+      
+      <category>first day</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
     
   </entry>
   
@@ -24,6 +36,18 @@
     <content type="html"><![CDATA[<h3 id="This-is-a-test-article"><a href="#This-is-a-test-article" class="headerlink" title="This is a test article"></a>This is a test article</h3><p>here I want to to put a picture。</p><img src="/2022/12/29/test_article/1.png" class="" title="one bag"><p>let the picture in the center </p><div style="text-align: center"><img src="1.png"/></div>]]></content>
     
     
+    <categories>
+      
+      <category>first day</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
     
   </entry>
   
