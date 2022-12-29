@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>first article</title>
+    <link href="/2022/12/29/test_article/"/>
+    <url>/2022/12/29/test_article/</url>
+    
+    <content type="html"><![CDATA[<h3 id="This-is-a-test-article"><a href="#This-is-a-test-article" class="headerlink" title="This is a test article"></a>This is a test article</h3><p>here I want to to put a picture。</p><img src="/2022/12/29/test_article/1.png" class="" title="one bag"><p>let the picture in the center </p><div style="text-align: center"><img src="1.png"/></div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
